@@ -1,0 +1,11 @@
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\bin\Debug\netcoreapp2.1\Lantz_FarmerGame.deps.json
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\bin\Debug\netcoreapp2.1\Lantz_FarmerGame.runtimeconfig.json
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\bin\Debug\netcoreapp2.1\Lantz_FarmerGame.runtimeconfig.dev.json
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\bin\Debug\netcoreapp2.1\Lantz_FarmerGame.dll
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\bin\Debug\netcoreapp2.1\Lantz_FarmerGame.pdb
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\obj\Debug\netcoreapp2.1\Lantz_FarmerGame.csprojAssemblyReference.cache
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\obj\Debug\netcoreapp2.1\Lantz_FarmerGame.csproj.CoreCompileInputs.cache
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\obj\Debug\netcoreapp2.1\Lantz_FarmerGame.AssemblyInfoInputs.cache
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\obj\Debug\netcoreapp2.1\Lantz_FarmerGame.AssemblyInfo.cs
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\obj\Debug\netcoreapp2.1\Lantz_FarmerGame.dll
+E:\MATC\Second Semester\Intermediate OOP\Visual Studio Apps\Lantz_FarmerGame\Lantz_FarmerGame\obj\Debug\netcoreapp2.1\Lantz_FarmerGame.pdb
